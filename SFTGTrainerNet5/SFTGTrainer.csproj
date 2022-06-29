@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.Network">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-1.0.55.56.0b9">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\TextMeshPro-1.0.55.56.0b9.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>H:\Steam\steamapps\common\StickFightTheGame\StickFight_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
